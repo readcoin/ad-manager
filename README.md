@@ -2,4 +2,4 @@
 
 Ad manager is library support load ad efficiently. Written by SS group.
 
-[[Wiki|Home]]
+[Wiki](https://github.com/readcoin/ad-manager/wiki)
